@@ -1,0 +1,27 @@
+{
+    "keyboard_name": "botpadv3",
+    "manufacturer": "KeeBot",
+    "url": "",
+    "maintainer": "sParKer",
+    "usb": {
+		"vid": "0x2345",
+        "pid": "0x0548",
+        "device_version": "0.0.1"
+    },
+	"layouts": {
+        "LAYOUT": {
+            "layout": [
+                { "matrix": [0, 0], "x": 0.0, "y": 0.0 },
+                { "matrix": [0, 1], "x": 1.0, "y": 0.0 },
+                { "matrix": [0, 2], "x": 2.0, "y": 0.0 },
+                { "matrix": [1, 0], "x": 0.0, "y": 1.25 },
+                { "matrix": [1, 1], "x": 1.0, "y": 1.25 },
+                { "matrix": [1, 2], "x": 2.0, "y": 1.25 },
+                { "matrix": [2, 0], "x": 0.0, "y": 2.5 },
+                { "matrix": [2, 1], "x": 1.0, "y": 2.5 },
+                { "matrix": [2, 2], "x": 2.0, "y": 2.5 },
+                { "matrix": [3, 0], "x": 0.0, "y": 2.75 }
+            ]
+        }
+    }
+}
